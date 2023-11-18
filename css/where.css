@@ -1,0 +1,13 @@
+.card {
+  margin-top: 140px;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+@media (max-width: 620px) {
+    .card {
+      width: 80vw;
+    }
+  }
+  main, header, footer {
+    font-family: 'Nunito', sans-serif;
+  }
